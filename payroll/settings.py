@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'payroll.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'payrollgcc',
+        'NAME': 'gccpayroll',
         'USER': 'root',
         'PASSWORD' :'',
         'HOST':'localhost',
